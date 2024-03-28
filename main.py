@@ -6,3 +6,4 @@
 # @File    : main.py.py
 # @Software: PyCharm
 import numpy as np
+print('hello world')
